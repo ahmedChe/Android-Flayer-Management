@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_63ff65d401bc763b359139eb94ef1aa7f246eb08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CHEBBI\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_dd7463ba30853d6bfa978851f8ff42d16f7cd031\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.11.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.11.0_52e6a8d8e3e7299abfb098371a771bc1e8d048cf\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cefd08b3cbd2ac1d2b924cf361618973a678b287">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1d9cdb558a55dc1d9c75f45125163fda37afc72b\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_c946b23fd5931ee7f7ecaf0eb6d4164305e9d78a\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_557bd1b88704b63aa6f21ed8f62038e89d678b5d\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee71918d37363a78149c58f0fe1a18f682e6e269">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6cccfaa70dd9e7e4927aa8e69e5b800a132403e4\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_448bc87893d3978adfa931f32e3373bda8f614e5\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_8856142a359e8f9d7a957e4984e05788f1e3f69e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CHEBBI\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_e1852dc6c565e07310469c2a77c9b605b73c4fb2\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_1f8a1c5c6a3bd7b4090a2286da572eace83e0e8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CHEBBI\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_1b07741c59293ddba11011d725fad7e0ecaec71d\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.2.1_86c2e0f4ebe4052a1b9c5c184b86f8eab86274d3\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_dc1e200dbfb5192f5a829c83925224a52e89f04e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CHEBBI\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_f1f118eee5d6dc746d0ee70db68bda367442b9fd\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_6fb137fe7ba701d746af5e364299810b530cf1ac\classes.dex" />
+    </item>
+    <item
+        jar="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="G:\AndroidProject\Flyer-managment-master\Flyer-managment-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_8b4ef8ef9eb166668f0a089a7e21d4437acda898\classes.dex" />
+    </item>
+
+</items>
